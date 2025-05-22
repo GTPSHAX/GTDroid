@@ -28,5 +28,5 @@ Build dengan release mode
 ```
 4. Jalankan aplikasi
 ```bash
-./run #--release #tambahkan args release untuk menjalankan release mode
+./run.sh #--release #tambahkan args release untuk menjalankan release mode
 ```
