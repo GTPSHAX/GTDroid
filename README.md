@@ -6,7 +6,7 @@ Ini hanyalah projek iseng untuk mencoba mengembangkan batas kemampuan saya, saya
 ## Instalasi
 1. Unduh package yang dibutuhkan
 ```bash
-pkg git install clang make cmake
+pkg install git clang make cmake
 ```
 2. Clone repository ini
 ```bash
@@ -27,5 +27,5 @@ Build dengan release mode
 ```
 4. Jalankan aplikasi
 ```bash
-./run #--release #tambahkan args release untuk menjalankan release mode"
+./run #--release #tambahkan args release untuk menjalankan release mode
 ```
