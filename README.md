@@ -13,6 +13,7 @@ pkg install git clang make cmake
 git clone https://github.com/GTPSHAX/GTDroid.git
 ```
 3. Build project
+
 Untuk pertamakalinya, harus diberi izin terlebih dahulu
 ```bash
 chmod -x ./build.sh && chmod -x ./build.release.sh && chmod -x run.sh
